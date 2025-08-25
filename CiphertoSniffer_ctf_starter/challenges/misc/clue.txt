@@ -1,0 +1,8 @@
+I hid something in my public projects...
+But since this is offline, check the file `commit_history.log` here.
+
+commit 1a2b3c: "initial commit"
+commit d3f4e5: "add docs"
+commit 9c8b7a: "update readme with secrets"
+diff --git a/README.md b/README.md
++ TODO: remember FLAG{osint_detective}
